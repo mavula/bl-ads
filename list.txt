@@ -6,3 +6,5 @@ pagead2.googlesyndication.com
 google-analytics.com
 www.indianclicks.com
 indianclicks.com
+static.doubleclick.net
+googleads.g.doubleclick.net
