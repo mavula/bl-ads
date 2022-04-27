@@ -4,3 +4,5 @@ securepubads.g.doubleclick.net
 aj2031.online
 pagead2.googlesyndication.com
 google-analytics.com
+www.indianclicks.com
+indianclicks.com
