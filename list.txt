@@ -1,3 +1,6 @@
 cdn.vuukle.com
 tg1.vuukle.com
 securepubads.g.doubleclick.net
+aj2031.online
+pagead2.googlesyndication.com
+google-analytics.com
